@@ -1,6 +1,6 @@
-# spam-sms_call
-pkg update
-pkg upgrade
+# spam-sms_cal
+
+apt update
 pkg install python
 pkg install git
-git clone ttps://github.com/fifcyber/spam-sms_call
+git clone yttps://github.com/fifcyber/spam-sms_call
